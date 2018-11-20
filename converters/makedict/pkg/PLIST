@@ -1,0 +1,7 @@
+@comment $OpenBSD: PLIST,v$
+@bin bin/makedict
+lib/makedict-codecs/
+lib/makedict-codecs/apresyan.py
+lib/makedict-codecs/mdparser.py
+lib/makedict-codecs/mueller7_parser.py
+@man man/man1/makedict.1

@@ -1,0 +1,20 @@
+@comment $OpenBSD: PLIST,v$
+@bin bin/sdcv
+@man man/man1/sdcv.1
+man/uk/
+man/uk/man1/
+@man man/uk/man1/sdcv.1
+share/locale/cs/LC_MESSAGES/
+share/locale/cs/LC_MESSAGES/sdcv.mo
+share/locale/fr/LC_MESSAGES/
+share/locale/fr/LC_MESSAGES/sdcv.mo
+share/locale/ru/LC_MESSAGES/
+share/locale/ru/LC_MESSAGES/sdcv.mo
+share/locale/sk/LC_MESSAGES/
+share/locale/sk/LC_MESSAGES/sdcv.mo
+share/locale/uk/LC_MESSAGES/
+share/locale/uk/LC_MESSAGES/sdcv.mo
+share/locale/zh_CN/LC_MESSAGES/
+share/locale/zh_CN/LC_MESSAGES/sdcv.mo
+share/locale/zh_TW/LC_MESSAGES/
+share/locale/zh_TW/LC_MESSAGES/sdcv.mo

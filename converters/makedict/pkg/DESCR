@@ -1,0 +1,16 @@
+This package is for converting dictionary files between a variety of
+formats. StarDict, XDXF and dictd formats are supported both as inputs and
+outputs, sdict and Lingvo DSL formats as outputs only.  It uses XDXF internally
+as an intermediate representation.
+
+To convert a dictionary between dictd and StarDict formats:
+
+   makedict -o stardict file.index
+
+To convert a dictionary between dictd and XDXF formats:
+
+   makedict -o xdxf path/to/file.index
+
+To convert an unencrypted Lingvo dictionary to StarDict format:
+
+   makedict -o stardict path/to/dictionary.dsl
